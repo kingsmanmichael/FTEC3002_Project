@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b10f3294-20e0-4f85-89a6-868381e906a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finvest_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/finvest_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finvest_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -37,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/hello/templates/hello_world.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -54,8 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finvest_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state relative-caret-position="356">
+              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/finvest_project/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -73,9 +85,10 @@
         <option value="$PROJECT_DIR$/portfolio/templates/base.html" />
         <option value="$PROJECT_DIR$/portfolio/views.py" />
         <option value="$PROJECT_DIR$/portfolio/templates/portfolio.html" />
-        <option value="$PROJECT_DIR$/finvest_project/settings.py" />
         <option value="$PROJECT_DIR$/hello/templates/hello_world.html" />
         <option value="$PROJECT_DIR$/finvest_project/urls.py" />
+        <option value="$PROJECT_DIR$/finvest_project/settings.py" />
+        <option value="$PROJECT_DIR$/finvest_project/templates/base.html" />
       </list>
     </option>
   </component>
@@ -111,6 +124,12 @@
               <item name="Webapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="finvest_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="finvest_project" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Webapp" type="b2602c69:ProjectViewProjectNode" />
@@ -210,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586537973424</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Installed Bootstrap4">
+      <created>1586538255574</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586538255574</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -242,7 +268,8 @@
     <MESSAGE value="Upgraded django" />
     <MESSAGE value="Created portfolio app&#10;Set up base template" />
     <MESSAGE value="Change URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change URL" />
+    <MESSAGE value="Installed Bootstrap4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installed Bootstrap4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/manage.py">
@@ -259,20 +286,6 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finvest_project/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finvest_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -293,7 +306,7 @@
     <entry file="file://$PROJECT_DIR$/hello/templates/hello_world.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -304,6 +317,20 @@
           <folding>
             <element signature="e#639#671#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finvest_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finvest_project/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="38" />
         </state>
       </provider>
     </entry>
